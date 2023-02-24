@@ -1,7 +1,7 @@
 # university-management
-Language => Java
-FrameWork => SpringBoot
-DB => MySql
+## Language => Java
+## FrameWork => SpringBoot
+## DB => MySql
 
 This repo was created to learn git & github.
 Also this project was created to learn springboot & Spring Data JPA(Mapping) concepts.
