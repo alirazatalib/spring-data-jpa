@@ -1,3 +1,6 @@
+# spring-data-jpa
+one-to-one, one-to-many, many-to-many mappings in implemented in spring data jpa and explained!
+
 # university-management
 ## Language => Java
 ## FrameWork => SpringBoot
